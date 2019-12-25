@@ -48,4 +48,4 @@ chmod 777 fixidia.sh
 
 
 
-And you're done! 
+And you're done! The script will automatically delete itself and all of the resources used from your device.
